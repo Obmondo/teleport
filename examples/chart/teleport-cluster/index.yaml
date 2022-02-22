@@ -1,0 +1,28 @@
+apiVersion: v1
+entries:
+  teleport-cluster:
+  - apiVersion: v2
+    appVersion: 8.3.1
+    created: "2022-02-22T12:16:58.404242847+05:30"
+    description: Teleport is a unified access plane for your infrastructure
+    digest: 906e323a9778f96084cacddd5dbced6d804ba1aaa5bc99133a1a0e636bf8ea6e
+    icon: https://goteleport.com/images/logos/logo-teleport-square.svg
+    keywords:
+    - Teleport
+    name: teleport-cluster
+    urls:
+    - https://raw.githubusercontent.com/Obmondo/teleport/master/examples/chart/teleport-cluster/teleport-cluster-8.3.1.tgz
+    version: 8.3.1
+  - apiVersion: v2
+    appVersion: 8.3.0
+    created: "2022-02-22T12:16:58.403361734+05:30"
+    description: Teleport is a unified access plane for your infrastructure
+    digest: 15901ab84f835235be31fa8b9d4490e493a9ce4952a5612ffbd11f1dad0f14ad
+    icon: https://goteleport.com/images/logos/logo-teleport-square.svg
+    keywords:
+    - Teleport
+    name: teleport-cluster
+    urls:
+    - https://raw.githubusercontent.com/Obmondo/teleport/master/examples/chart/teleport-cluster/teleport-cluster-8.3.0.tgz
+    version: 8.3.0
+generated: "2022-02-22T12:16:58.402530593+05:30"
